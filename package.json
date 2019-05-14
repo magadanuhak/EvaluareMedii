@@ -1,0 +1,15 @@
+{
+  "name": "lucraredaniel",
+  "version": "1.0.0",
+  "description": "My Test",
+  "main": "index.html",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Daniel Maga",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "typescript": "^3.4.5"
+  }
+}
